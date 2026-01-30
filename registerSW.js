@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/parcs-et-jardins/sw.js', { scope: '/parcs-et-jardins/' })})}
