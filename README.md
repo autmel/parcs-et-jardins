@@ -7,7 +7,7 @@ Les deux premières associations à l'utiliser sont Deul'Air et LM Oxygène.
 
 ## Github pages 
 Cette page contient une version déployée et consolidée. Les fichiers de données GeoJSon sont statiques
-   https://autmel.github.io/parcs-et-jardins/
+   https://parcs-et-jardins.autmel.ovh
 
 ## Code Source
 
